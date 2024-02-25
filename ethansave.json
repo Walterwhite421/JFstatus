@@ -1,0 +1,2983 @@
+{
+	"header": {
+		"magic": 1396790855,
+		"save_game_version": 3,
+		"package_file_version_ue4": 522,
+		"package_file_version_ue5": 1008,
+		"engine_version_major": 5,
+		"engine_version_minor": 1,
+		"engine_version_patch": 1,
+		"engine_version_changelist": 0,
+		"engine_version_branch": "++UE5+Release-5.1",
+		"custom_version_format": 3,
+		"custom_versions": [
+			[
+				"40d2fba7-4b48-4ce5-b038-5a75884e499e",
+				7
+			],
+			[
+				"fcf57afa-5076-4283-b9a9-e658ffa02d32",
+				76
+			],
+			[
+				"0925477b-763d-4001-9d91-d6730b75b411",
+				1
+			],
+			[
+				"4288211b-4548-16c6-1a76-67b2507a2a00",
+				1
+			],
+			[
+				"1ab9cecc-0000-6913-0000-4875203d51fb",
+				100
+			],
+			[
+				"4cef9221-470e-d43a-7e60-3d8c16995726",
+				1
+			],
+			[
+				"e2717c7e-52f5-44d3-950c-5340b315035e",
+				7
+			],
+			[
+				"11310aed-2e55-4d61-af67-9aa3c5a1082c",
+				17
+			],
+			[
+				"a7820cfb-20a7-4359-8c54-2c149623cf50",
+				21
+			],
+			[
+				"f6dfbb78-bb50-a0e4-4018-b84d60cbaf23",
+				2
+			],
+			[
+				"24bb7af3-5646-4f83-1f2f-2dc249ad96ff",
+				5
+			],
+			[
+				"76a52329-0923-45b5-98ae-d841cf2f6ad8",
+				5
+			],
+			[
+				"5fbc6907-55c8-40ae-8e67-f1845efff13f",
+				1
+			],
+			[
+				"82e77c4e-3323-43a5-b46b-13c597310df3",
+				0
+			],
+			[
+				"0ffcf66c-1190-4899-b160-9cf84a46475e",
+				1
+			],
+			[
+				"9c54d522-a826-4fbe-9421-074661b482d0",
+				44
+			],
+			[
+				"b0d832e4-1f89-4f0d-accf-7eb736fd4aa2",
+				10
+			],
+			[
+				"e1c64328-a22c-4d53-a36c-8e866417bd8c",
+				0
+			],
+			[
+				"375ec13c-06e4-48fb-b500-84f0262a717e",
+				4
+			],
+			[
+				"e4b068ed-f494-42e9-a231-da0b2e46bb41",
+				40
+			],
+			[
+				"cffc743f-43b0-4480-9391-14df171d2073",
+				37
+			],
+			[
+				"b02b49b5-bb20-44e9-a304-32b752e40360",
+				3
+			],
+			[
+				"a4e4105c-59a1-49b5-a7c5-40c4547edfee",
+				0
+			],
+			[
+				"39c831c9-5ae6-47dc-9a44-9c173e1c8e7c",
+				0
+			],
+			[
+				"78f01b33-ebea-4f98-b9b4-84eaccb95aa2",
+				20
+			],
+			[
+				"6631380f-2d4d-43e0-8009-cf276956a95a",
+				0
+			],
+			[
+				"12f88b9f-8875-4afc-a67c-d90c383abd29",
+				45
+			],
+			[
+				"7b5ae74c-d270-4c10-a958-57980b212a5a",
+				13
+			],
+			[
+				"d7296918-1dd6-4bdd-9de2-64a83cc13884",
+				3
+			],
+			[
+				"c2a15278-bfe7-4afe-6c17-90ff531df755",
+				1
+			],
+			[
+				"6eaca3d4-40ec-4cc1-b786-8bed09428fc5",
+				3
+			],
+			[
+				"29e575dd-e0a3-4627-9d10-d276232cdcea",
+				17
+			],
+			[
+				"af43a65d-7fd3-4947-9873-3e8ed9c1bb05",
+				15
+			],
+			[
+				"6b266cec-1ec7-4b8f-a30b-e4d90942fc07",
+				1
+			],
+			[
+				"0df73d61-a23f-47ea-b727-89e90c41499a",
+				1
+			],
+			[
+				"601d1886-ac64-4f84-aa16-d3de0deac7d6",
+				80
+			],
+			[
+				"5b4c06b7-2463-4af8-805b-bf70cdf5d0dd",
+				10
+			],
+			[
+				"e7086368-6b23-4c58-8439-1b7016265e91",
+				4
+			],
+			[
+				"9dffbcd6-494f-0158-e221-12823c92a888",
+				10
+			],
+			[
+				"f2aed0ac-9afe-416f-8664-aa7ffa26d6fc",
+				1
+			],
+			[
+				"174f1f0b-b4c6-45a5-b13f-2ee8d0fb917d",
+				10
+			],
+			[
+				"35f94a83-e258-406c-a318-09f59610247c",
+				41
+			],
+			[
+				"b68fc16e-8b1b-42e2-b453-215c058844fe",
+				1
+			],
+			[
+				"b2e18506-4273-cfc2-a54e-f4bb758bba07",
+				1
+			],
+			[
+				"64f58936-fd1b-42ba-ba96-7289d5d0fa4e",
+				1
+			],
+			[
+				"697dd581-e64f-41ab-aa4a-51ecbeb7b628",
+				88
+			],
+			[
+				"d89b5e42-24bd-4d46-8412-aca8df641779",
+				41
+			],
+			[
+				"59da5d52-1232-4948-b878-597870b8e98b",
+				8
+			],
+			[
+				"26075a32-730f-4708-88e9-8c32f1599d05",
+				0
+			],
+			[
+				"6f0ed827-a609-4895-9c91-998d90180ea4",
+				2
+			],
+			[
+				"30d58be3-95ea-4282-a6e3-b159d8ebb06a",
+				1
+			],
+			[
+				"717f9ee7-e9b0-493a-88b3-91321b388107",
+				16
+			],
+			[
+				"430c4d19-7154-4970-8769-9b69df90b0e5",
+				15
+			],
+			[
+				"aafe32bd-5395-4c14-b66a-5e251032d1dd",
+				1
+			],
+			[
+				"23afe18e-4ce1-4e58-8d61-c252b953beb7",
+				11
+			],
+			[
+				"a462b7ea-f499-4e3a-99c1-ec1f8224e1b2",
+				4
+			],
+			[
+				"2eb5fdbd-01ac-4d10-8136-f38f3393a5da",
+				5
+			],
+			[
+				"509d354f-f6e6-492f-a749-85b2073c631c",
+				0
+			],
+			[
+				"b6e31b1c-d29f-11ec-857e-9f856f9970e2",
+				1
+			],
+			[
+				"4a56eb40-10f5-11dc-92d3-347eb2c96ae7",
+				2
+			],
+			[
+				"d78a4a00-e858-4697-baa8-19b5487d46b4",
+				18
+			],
+			[
+				"5579f886-933a-4c1f-83ba-087b6361b92f",
+				2
+			],
+			[
+				"612fbe52-da53-400b-910d-4f919fb1857c",
+				1
+			],
+			[
+				"a4237a36-caea-41c9-8fa2-18f858681bf3",
+				5
+			],
+			[
+				"804e3f75-7088-4b49-a4d6-8c063c7eb6dc",
+				5
+			],
+			[
+				"1ed048f4-2f2e-4c68-89d0-53a4f18f102d",
+				1
+			],
+			[
+				"fb680af2-59ef-4ba3-baa8-19b573c8443d",
+				2
+			],
+			[
+				"9950b70e-b41a-4e17-bbcc-fa0d57817fd6",
+				1
+			],
+			[
+				"ab965196-45d8-08fc-b7d7-228d78ad569e",
+				1
+			]
+		],
+		"save_game_class_name": "/Script/Pal.PalWorldPlayerSaveGame"
+	},
+	"properties": {
+		"Version": {
+			"id": null,
+			"value": 100,
+			"type": "IntProperty"
+		},
+		"Timestamp": {
+			"struct_type": "DateTime",
+			"struct_id": "00000000-0000-0000-0000-000000000000",
+			"id": null,
+			"value": 638436391681810000,
+			"type": "StructProperty"
+		},
+		"SaveData": {
+			"struct_type": "PalWorldPlayerSaveData",
+			"struct_id": "00000000-0000-0000-0000-000000000000",
+			"id": null,
+			"value": {
+				"PlayerUId": {
+					"struct_type": "Guid",
+					"struct_id": "00000000-0000-0000-0000-000000000000",
+					"id": null,
+					"value": "f242b6c4-0000-0000-0000-000000000000",
+					"type": "StructProperty"
+				},
+				"IndividualId": {
+					"struct_type": "PalInstanceID",
+					"struct_id": "00000000-0000-0000-0000-000000000000",
+					"id": null,
+					"value": {
+						"PlayerUId": {
+							"struct_type": "Guid",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": "f242b6c4-0000-0000-0000-000000000000",
+							"type": "StructProperty"
+						},
+						"InstanceId": {
+							"struct_type": "Guid",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": "efe69a61-4245-83ec-be75-6d96da366071",
+							"type": "StructProperty"
+						}
+					},
+					"type": "StructProperty"
+				},
+				"LastTransform": {
+					"struct_type": "Transform",
+					"struct_id": "00000000-0000-0000-0000-000000000000",
+					"id": null,
+					"value": {
+						"Rotation": {
+							"struct_type": "Quat",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": {
+								"x": 0.0,
+								"y": -0.0,
+								"z": 0.7605055375041277,
+								"w": 0.6493314465090674
+							},
+							"type": "StructProperty"
+						},
+						"Translation": {
+							"struct_type": "Vector",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": {
+								"x": -128184.70164501805,
+								"y": 263915.29400804196,
+								"z": 5928.77041746175
+							},
+							"type": "StructProperty"
+						}
+					},
+					"type": "StructProperty"
+				},
+				"PlayerCharacterMakeData": {
+					"struct_type": "PalPlayerDataCharacterMakeInfo",
+					"struct_id": "00000000-0000-0000-0000-000000000000",
+					"id": null,
+					"value": {
+						"BodyMeshName": {
+							"id": null,
+							"value": "TypeB",
+							"type": "NameProperty"
+						},
+						"HeadMeshName": {
+							"id": null,
+							"value": "type1",
+							"type": "NameProperty"
+						},
+						"HairMeshName": {
+							"id": null,
+							"value": "type1",
+							"type": "NameProperty"
+						},
+						"LegVolume": {
+							"id": null,
+							"value": 0.542397141456604,
+							"type": "FloatProperty"
+						},
+						"HairColor": {
+							"struct_type": "LinearColor",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": {
+								"r": 0.0,
+								"g": 1.0431736707687378,
+								"b": 1.015243411064148,
+								"a": 1.0
+							},
+							"type": "StructProperty"
+						},
+						"BrowColor": {
+							"struct_type": "LinearColor",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": {
+								"r": 0.0,
+								"g": 1.0431736707687378,
+								"b": 1.015243411064148,
+								"a": 1.0
+							},
+							"type": "StructProperty"
+						},
+						"BodyColor": {
+							"struct_type": "LinearColor",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": {
+								"r": 0.00573806744068861,
+								"g": 0.9651038646697998,
+								"b": 1.5671875476837158,
+								"a": 1.0
+							},
+							"type": "StructProperty"
+						},
+						"BodySubsurfaceColor": {
+							"struct_type": "LinearColor",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": {
+								"r": 1.3000518083572388,
+								"g": 0.0909947007894516,
+								"b": 0.04540133848786354,
+								"a": 1.0
+							},
+							"type": "StructProperty"
+						},
+						"EyeColor": {
+							"struct_type": "LinearColor",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": {
+								"r": 0.03495568782091141,
+								"g": 1.0771548748016357,
+								"b": 1.1776036024093628,
+								"a": 1.0
+							},
+							"type": "StructProperty"
+						},
+						"EyeMaterialName": {
+							"id": null,
+							"value": "Type001",
+							"type": "NameProperty"
+						},
+						"VoiceID": {
+							"id": null,
+							"value": 6,
+							"type": "IntProperty"
+						}
+					},
+					"type": "StructProperty"
+				},
+				"OtomoCharacterContainerId": {
+					"struct_type": "PalContainerId",
+					"struct_id": "00000000-0000-0000-0000-000000000000",
+					"id": null,
+					"value": {
+						"ID": {
+							"struct_type": "Guid",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": "7d5ff394-4f3b-e2e8-1ccb-6fa83b70b3c5",
+							"type": "StructProperty"
+						}
+					},
+					"type": "StructProperty"
+				},
+				"inventoryInfo": {
+					"struct_type": "PalPlayerDataInventoryInfo",
+					"struct_id": "00000000-0000-0000-0000-000000000000",
+					"id": null,
+					"value": {
+						"CommonContainerId": {
+							"struct_type": "PalContainerId",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": {
+								"ID": {
+									"struct_type": "Guid",
+									"struct_id": "00000000-0000-0000-0000-000000000000",
+									"id": null,
+									"value": "87ea095a-446c-ac34-ce63-61b406c6280b",
+									"type": "StructProperty"
+								}
+							},
+							"type": "StructProperty"
+						},
+						"DropSlotContainerId": {
+							"struct_type": "PalContainerId",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": {
+								"ID": {
+									"struct_type": "Guid",
+									"struct_id": "00000000-0000-0000-0000-000000000000",
+									"id": null,
+									"value": "cc8b2bbc-4f84-3942-a24b-46be3b72e69c",
+									"type": "StructProperty"
+								}
+							},
+							"type": "StructProperty"
+						},
+						"EssentialContainerId": {
+							"struct_type": "PalContainerId",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": {
+								"ID": {
+									"struct_type": "Guid",
+									"struct_id": "00000000-0000-0000-0000-000000000000",
+									"id": null,
+									"value": "cd8ffe02-4a4f-55d7-4fa7-f5b9cc37dfab",
+									"type": "StructProperty"
+								}
+							},
+							"type": "StructProperty"
+						},
+						"WeaponLoadOutContainerId": {
+							"struct_type": "PalContainerId",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": {
+								"ID": {
+									"struct_type": "Guid",
+									"struct_id": "00000000-0000-0000-0000-000000000000",
+									"id": null,
+									"value": "72edcdf9-473e-33e8-4d33-2e9cd6b0468c",
+									"type": "StructProperty"
+								}
+							},
+							"type": "StructProperty"
+						},
+						"PlayerEquipArmorContainerId": {
+							"struct_type": "PalContainerId",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": {
+								"ID": {
+									"struct_type": "Guid",
+									"struct_id": "00000000-0000-0000-0000-000000000000",
+									"id": null,
+									"value": "627dcfde-4895-f550-8ef5-c684a60d8c4f",
+									"type": "StructProperty"
+								}
+							},
+							"type": "StructProperty"
+						},
+						"FoodEquipContainerId": {
+							"struct_type": "PalContainerId",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": {
+								"ID": {
+									"struct_type": "Guid",
+									"struct_id": "00000000-0000-0000-0000-000000000000",
+									"id": null,
+									"value": "527f3e2c-4d64-e552-31cf-409979c163be",
+									"type": "StructProperty"
+								}
+							},
+							"type": "StructProperty"
+						}
+					},
+					"type": "StructProperty"
+				},
+				"TechnologyPoint": {
+					"id": null,
+					"value": 3,
+					"type": "IntProperty"
+				},
+				"bossTechnologyPoint": {
+					"id": null,
+					"value": 17,
+					"type": "IntProperty"
+				},
+				"UnlockedRecipeTechnologyNames": {
+					"array_type": "NameProperty",
+					"id": null,
+					"value": {
+						"values": [
+							"Workbench",
+							"Product_Axe_Grade_01",
+							"Product_Pickaxe_Grade_01",
+							"HandTorch",
+							"Battle_MeleeWeapon_Bat",
+							"PalBox",
+							"Special_PalSphere_Grade_01",
+							"Product_Cooking_Grade_01",
+							"Infra_ItemChest_Grade_01",
+							"RepairBench",
+							"Wooden_houseset",
+							"Battle_RangeWeapon_Bow1",
+							"Arrow",
+							"Infra_PlayerBed_Grade_01",
+							"Infra_PalBed_Grade_01",
+							"RepairKit",
+							"Battle_Cloth",
+							"Shield_01",
+							"Spear",
+							"Battle_Armor_Grade_01_Cloth",
+							"PalFoodBox",
+							"BaseCampBattleDirector",
+							"Trap_Noose",
+							"Product_Farm_Berries",
+							"MonsterFarm",
+							"Battle_Glider_Grade_01",
+							"Battle_RangeWeapon_Bow_Fire",
+							"Arrow_Fire",
+							"Product_WorkBench_SkillUnlock",
+							"BuildableGoddessStatue",
+							"Torch",
+							"SkillUnlock_Boar",
+							"SkillUnlock_Kitsunebi",
+							"Product_StationDeforest",
+							"Product_StonePit",
+							"Signboard",
+							"Battle_MeleeWeapon_Bat2",
+							"SkillUnlock_Alpaca",
+							"SkillUnlock_FlyingManta",
+							"Special_HatchingPalEgg",
+							"Crusher",
+							"Battle_RangeWeapon_Bow_Poison",
+							"Arrow_Poison",
+							"SkillUnlock_Hedgehog",
+							"SkillUnlock_DreamDemon",
+							"Battle_Armor_Grade_01_Cloth_Heat",
+							"Battle_Armor_Grade_01_Cloth_Cold",
+							"Spa",
+							"DefenseWait",
+							"SkillUnlock_Garm",
+							"SkillUnlock_NegativeOctopus",
+							"Battle_RangeWeapon_Bow3",
+							"Product_Ingot_Grade_01_Copper",
+							"Battle_Helm_Grade_02_Fur",
+							"Trap_LegHold",
+							"Infra_MachineParts",
+							"SkillUnlock_Serpent",
+							"AutoMealPouch_Tier1",
+							"Product_Axe_Grade_02",
+							"Product_Pickaxe_Grade_02",
+							"Product_Factory_Hard_Grade_01",
+							"Wood_Gate",
+							"SkillUnlock_Carbunclo",
+							"Battle_Armor_Grade_02_Fur",
+							"MeatCutterKnife",
+							"Product_Medicine_Grade_01",
+							"SkillUnlock_Monkey",
+							"SkillUnlock_Deer",
+							"GrapplingGun",
+							"Battle_RangeWeapon_BowGun",
+							"Spear_2",
+							"DamagedScarecrow",
+							"CoolerBox",
+							"SkillUnlock_NaughtyCat",
+							"SkillUnlock_WeaselDragon",
+							"Special_PalSphere_Grade_02",
+							"Special_SphereFactory_Black_Grade_01",
+							"WallTorch",
+							"SkillUnlock_Kirin",
+							"Special_PalRankUp",
+							"Battle_RangeWeapon_BowGun_Fire",
+							"Product_Farm_wheat",
+							"FlourMill",
+							"BaseCampWorkHard",
+							"SkillUnlock_HawkBird",
+							"Shield_02",
+							"Battle_Armor_Grade_02_Fur_Heat",
+							"Infra_ItemChest_Grade_02",
+							"DefenseWall_Wood",
+							"SkillUnlock_FlameBuffalo",
+							"Product_Cooking_Grade_02",
+							"Heater",
+							"GrapplingGun2",
+							"Battle_Glider_Grade_02",
+							"Battle_Armor_Grade_02_Fur_Cold",
+							"Stone_houseset",
+							"Cooler",
+							"BreedFarm",
+							"Cement",
+							"ToolBoxV1",
+							"SkillUnlock_FlowerDinosaur",
+							"Special_PalSphere_Grade_03",
+							"Product_WeaponFactory_Dirty_Grade_01",
+							"OlympicCauldron",
+							"AutoMealPouch_Tier2",
+							"Musket",
+							"Battle_GunPowder_Grade_02",
+							"RoughBullet",
+							"SkillUnlock_BirdDragon",
+							"ElecBaton",
+							"SkillUnlock_KingAlpaca",
+							"Lantern",
+							"Battle_Armor_Grade_03_Copper",
+							"Battle_Helm_Grade_03_Copper",
+							"Fountain",
+							"SkillUnlock_Eagle",
+							"Infra_PalBed_Grade_02",
+							"FlowerBed",
+							"SkillUnlock_BlueDragon",
+							"MakeshiftHandgun",
+							"Battle_Armor_Grade_03_Copper_Heat",
+							"Silo",
+							"SkillUnlock_Deer_Ground",
+							"Infra_ElectricGenerator_Grade_01",
+							"Lamp",
+							"SkillUnlock_FengyunDeeper",
+							"AutoMealPouch_Tier3",
+							"Special_PalSphere_Grade_04",
+							"Special_SphereFactory_Black_Grade_02",
+							"Battle_Armor_Grade_03_Copper_Cold",
+							"CeilingLamp",
+							"Shield_03",
+							"Product_Factory_Hard_Grade_02",
+							"SkillUnlock_GrassMammoth",
+							"Battle_RangeWeapon_HandGun",
+							"HandgunBullet",
+							"DefenseWall",
+							"SkillUnlock_FlowerDinosaur_Electric",
+							"Battle_RangeWeapon_SphereLauncher_Once",
+							"Infra_PlayerBed_Grade_02",
+							"MiningTool",
+							"Spa2",
+							"Stone_Gate",
+							"Product_WeaponFactory_Dirty_Grade_02",
+							"SkillUnlock_Manticore",
+							"GrapplingGun3",
+							"Polymer",
+							"SkillUnlock_HadesBird",
+							"Product_Ingot_Grade_02_Iron",
+							"Special_PalSphere_Grade_05",
+							"Special_SphereFactory_Black_Grade_03",
+							"Infra_ElectronicCircuit",
+							"CarbonFiber",
+							"SkillUnlock_Manticore_Dark",
+							"AutoMealPouch_Tier4",
+							"Battle_RangeWeapon_Rifle",
+							"RifleBullet",
+							"MedicalPalBed_04",
+							"SkillUnlock_SkyDragon",
+							"Battle_Armor_Grade_03_Iron",
+							"Battle_Helm_Grade_04_Iron",
+							"SkillUnlock_RedArmorBird",
+							"Battle_RangeWeapon_ShotGun",
+							"ShotgunBullet",
+							"SkillUnlock_Umihebi",
+							"Battle_Armor_Grade_03_Iron_Heat",
+							"SkillUnlock_Suzaku",
+							"Spear_ForestBoss",
+							"SkillUnlock_BirdDragon_Ice",
+							"Battle_RangeWeapon_ShotGun_Multi",
+							"FurnitureSet_1",
+							"FurnitureSet_2",
+							"FurnitureSet_3",
+							"FurnitureSet_6",
+							"FurnitureSet_9",
+							"FurnitureSet_18",
+							"FurnitureSet_21",
+							"FurnitureSet_30"
+						]
+					},
+					"type": "ArrayProperty"
+				},
+				"PalStorageContainerId": {
+					"struct_type": "PalContainerId",
+					"struct_id": "00000000-0000-0000-0000-000000000000",
+					"id": null,
+					"value": {
+						"ID": {
+							"struct_type": "Guid",
+							"struct_id": "00000000-0000-0000-0000-000000000000",
+							"id": null,
+							"value": "b9b18746-4654-0866-a3fe-40bac69ea125",
+							"type": "StructProperty"
+						}
+					},
+					"type": "StructProperty"
+				},
+				"RecordData": {
+					"struct_type": "PalLoggedinPlayerSaveDataRecordData",
+					"struct_id": "00000000-0000-0000-0000-000000000000",
+					"id": null,
+					"value": {
+						"TowerBossDefeatFlag": {
+							"key_type": "NameProperty",
+							"value_type": "BoolProperty",
+							"key_struct_type": null,
+							"value_struct_type": null,
+							"id": null,
+							"value": [
+								{
+									"key": "BOSS_BATTLE_NAME_GrassBoss",
+									"value": true
+								},
+								{
+									"key": "BOSS_BATTLE_NAME_ForestBoss",
+									"value": true
+								}
+							],
+							"type": "MapProperty"
+						},
+						"NormalBossDefeatFlag": {
+							"key_type": "NameProperty",
+							"value_type": "BoolProperty",
+							"key_struct_type": null,
+							"value_struct_type": null,
+							"id": null,
+							"value": [
+								{
+									"key": "1_10_plain_F_Boss_FairyDragon",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_9",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_18",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_20",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_2",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_22",
+									"value": true
+								},
+								{
+									"key": "1_10_plain_F_Boss_BlueDragon",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_27",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_25",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_11",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_10",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_15",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_21",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_24",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_16",
+									"value": true
+								},
+								{
+									"key": "81_1_forest_FBOSS_1",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_4",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_5",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_23",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_6",
+									"value": true
+								},
+								{
+									"key": "81_1_forest_FBOSS_2",
+									"value": true
+								},
+								{
+									"key": "81_1_forest_FBOSS_7",
+									"value": true
+								},
+								{
+									"key": "81_1_forest_FBOSS_6",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_28",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_26",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_29",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_1",
+									"value": true
+								},
+								{
+									"key": "81_1_forest_FBOSS_4",
+									"value": true
+								},
+								{
+									"key": "81_1_forest_FBOSS_3",
+									"value": true
+								},
+								{
+									"key": "81_1_forest_FBOSS_5",
+									"value": true
+								},
+								{
+									"key": "81_2_dessert_FBOSS_3",
+									"value": true
+								},
+								{
+									"key": "81_2_dessert_FBOSS_1",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_13",
+									"value": true
+								},
+								{
+									"key": "81_1_grass_FBOSS_14",
+									"value": true
+								},
+								{
+									"key": "81_3_snow_FBOSS_2",
+									"value": true
+								}
+							],
+							"type": "MapProperty"
+						},
+						"TribeCaptureCount": {
+							"id": null,
+							"value": 110,
+							"type": "IntProperty"
+						},
+						"PalCaptureCount": {
+							"key_type": "NameProperty",
+							"value_type": "IntProperty",
+							"key_struct_type": null,
+							"value_struct_type": null,
+							"id": null,
+							"value": [
+								{
+									"key": "PinkCat",
+									"value": 13
+								},
+								{
+									"key": "Sheepball",
+									"value": 11
+								},
+								{
+									"key": "ChickenPal",
+									"value": 10
+								},
+								{
+									"key": "Kitsunebi",
+									"value": 13
+								},
+								{
+									"key": "WizardOwl",
+									"value": 3
+								},
+								{
+									"key": "WoolFox",
+									"value": 12
+								},
+								{
+									"key": "Boar",
+									"value": 5
+								},
+								{
+									"key": "ColorfulBird",
+									"value": 2
+								},
+								{
+									"key": "Carbunclo",
+									"value": 7
+								},
+								{
+									"key": "ElecCat",
+									"value": 8
+								},
+								{
+									"key": "CuteFox",
+									"value": 7
+								},
+								{
+									"key": "Garm",
+									"value": 11
+								},
+								{
+									"key": "Monkey",
+									"value": 14
+								},
+								{
+									"key": "Ganesha",
+									"value": 34
+								},
+								{
+									"key": "Penguin",
+									"value": 7
+								},
+								{
+									"key": "Deer",
+									"value": 18
+								},
+								{
+									"key": "FlyingManta",
+									"value": 19
+								},
+								{
+									"key": "HawkBird",
+									"value": 12
+								},
+								{
+									"key": "FlowerDinosaur",
+									"value": 9
+								},
+								{
+									"key": "Serpent",
+									"value": 7
+								},
+								{
+									"key": "NightFox",
+									"value": 4
+								},
+								{
+									"key": "BluePlatypus",
+									"value": 3
+								},
+								{
+									"key": "BerryGoat",
+									"value": 6
+								},
+								{
+									"key": "CuteMole",
+									"value": 4
+								},
+								{
+									"key": "NegativeOctopus",
+									"value": 6
+								},
+								{
+									"key": "DreamDemon",
+									"value": 5
+								},
+								{
+									"key": "Alpaca",
+									"value": 10
+								},
+								{
+									"key": "NaughtyCat",
+									"value": 5
+								},
+								{
+									"key": "CatBat",
+									"value": 3
+								},
+								{
+									"key": "Hedgehog",
+									"value": 8
+								},
+								{
+									"key": "PlantSlime",
+									"value": 4
+								},
+								{
+									"key": "CatMage",
+									"value": 3
+								},
+								{
+									"key": "Kirin",
+									"value": 23
+								},
+								{
+									"key": "FlameBuffalo",
+									"value": 17
+								},
+								{
+									"key": "Eagle",
+									"value": 10
+								},
+								{
+									"key": "LizardMan",
+									"value": 2
+								},
+								{
+									"key": "BlueDragon",
+									"value": 3
+								},
+								{
+									"key": "BirdDragon",
+									"value": 5
+								},
+								{
+									"key": "LazyDragon",
+									"value": 25
+								},
+								{
+									"key": "LazyCatfish",
+									"value": 7
+								},
+								{
+									"key": "MopBaby",
+									"value": 10
+								},
+								{
+									"key": "FlameBambi",
+									"value": 3
+								},
+								{
+									"key": "Kelpie",
+									"value": 1
+								},
+								{
+									"key": "Werewolf",
+									"value": 9
+								},
+								{
+									"key": "DarkCrow",
+									"value": 9
+								},
+								{
+									"key": "CatVampire",
+									"value": 6
+								},
+								{
+									"key": "PinkRabbit",
+									"value": 5
+								},
+								{
+									"key": "WeaselDragon",
+									"value": 16
+								},
+								{
+									"key": "CaptainPenguin",
+									"value": 4
+								},
+								{
+									"key": "KingAlpaca",
+									"value": 4
+								},
+								{
+									"key": "NegativeKoala",
+									"value": 4
+								},
+								{
+									"key": "PinkLizard",
+									"value": 1
+								},
+								{
+									"key": "MopKing",
+									"value": 5
+								},
+								{
+									"key": "RaijinDaughter",
+									"value": 2
+								},
+								{
+									"key": "SkyDragon",
+									"value": 10
+								},
+								{
+									"key": "SakuraSaurus",
+									"value": 2
+								},
+								{
+									"key": "SharkKid",
+									"value": 11
+								},
+								{
+									"key": "HadesBird",
+									"value": 6
+								},
+								{
+									"key": "RobinHood",
+									"value": 10
+								},
+								{
+									"key": "FlowerRabbit",
+									"value": 3
+								},
+								{
+									"key": "FengyunDeeper",
+									"value": 12
+								},
+								{
+									"key": "ThunderBird",
+									"value": 5
+								},
+								{
+									"key": "SweetsSheep",
+									"value": 2
+								},
+								{
+									"key": "DrillGame",
+									"value": 13
+								},
+								{
+									"key": "WindChimes",
+									"value": 2
+								},
+								{
+									"key": "IceFox",
+									"value": 2
+								},
+								{
+									"key": "FairyDragon",
+									"value": 3
+								},
+								{
+									"key": "LittleBriarRose",
+									"value": 2
+								},
+								{
+									"key": "Gorilla",
+									"value": 5
+								},
+								{
+									"key": "Mutant",
+									"value": 2
+								},
+								{
+									"key": "Kelpie_Fire",
+									"value": 2
+								},
+								{
+									"key": "HerculesBeetle",
+									"value": 1
+								},
+								{
+									"key": "GrassPanda",
+									"value": 11
+								},
+								{
+									"key": "GrassMammoth",
+									"value": 11
+								},
+								{
+									"key": "Deer_Ground",
+									"value": 5
+								},
+								{
+									"key": "GrassPanda_Electric",
+									"value": 5
+								},
+								{
+									"key": "ThunderDog",
+									"value": 11
+								},
+								{
+									"key": "FlowerDinosaur_Electric",
+									"value": 2
+								},
+								{
+									"key": "CuteButterfly",
+									"value": 5
+								},
+								{
+									"key": "RobinHood_Ground",
+									"value": 6
+								},
+								{
+									"key": "Baphomet_Dark",
+									"value": 1
+								},
+								{
+									"key": "SakuraSaurus_Water",
+									"value": 2
+								},
+								{
+									"key": "Yeti_Grass",
+									"value": 3
+								},
+								{
+									"key": "Ronin",
+									"value": 4
+								},
+								{
+									"key": "LazyDragon_Electric",
+									"value": 1
+								},
+								{
+									"key": "QueenBee",
+									"value": 5
+								},
+								{
+									"key": "VioletFairy",
+									"value": 1
+								},
+								{
+									"key": "Hedgehog_Ice",
+									"value": 2
+								},
+								{
+									"key": "Bastet",
+									"value": 4
+								},
+								{
+									"key": "SoldierBee",
+									"value": 10
+								},
+								{
+									"key": "RedArmorBird",
+									"value": 3
+								},
+								{
+									"key": "Manticore",
+									"value": 3
+								},
+								{
+									"key": "FireKirin_Dark",
+									"value": 4
+								},
+								{
+									"key": "Manticore_Dark",
+									"value": 6
+								},
+								{
+									"key": "Baphomet",
+									"value": 8
+								},
+								{
+									"key": "GrassRabbitMan",
+									"value": 2
+								},
+								{
+									"key": "Bastet_Ice",
+									"value": 1
+								},
+								{
+									"key": "VolcanicMonster",
+									"value": 1
+								},
+								{
+									"key": "CowPal",
+									"value": 6
+								},
+								{
+									"key": "IceDeer",
+									"value": 6
+								},
+								{
+									"key": "Anubis",
+									"value": 26
+								},
+								{
+									"key": "FireKirin",
+									"value": 3
+								},
+								{
+									"key": "AmaterasuWolf",
+									"value": 1
+								},
+								{
+									"key": "WhiteMoth",
+									"value": 1
+								},
+								{
+									"key": "Suzaku",
+									"value": 2
+								},
+								{
+									"key": "Umihebi",
+									"value": 1
+								},
+								{
+									"key": "Serpent_Ground",
+									"value": 2
+								},
+								{
+									"key": "BirdDragon_Ice",
+									"value": 1
+								},
+								{
+									"key": "LavaGirl",
+									"value": 1
+								},
+								{
+									"key": "DarkScorpion",
+									"value": 1
+								}
+							],
+							"type": "MapProperty"
+						},
+						"PaldeckUnlockFlag": {
+							"key_type": "NameProperty",
+							"value_type": "BoolProperty",
+							"key_struct_type": null,
+							"value_struct_type": null,
+							"id": null,
+							"value": [
+								{
+									"key": "PinkCat",
+									"value": true
+								},
+								{
+									"key": "Sheepball",
+									"value": true
+								},
+								{
+									"key": "ChickenPal",
+									"value": true
+								},
+								{
+									"key": "Kitsunebi",
+									"value": true
+								},
+								{
+									"key": "WizardOwl",
+									"value": true
+								},
+								{
+									"key": "WoolFox",
+									"value": true
+								},
+								{
+									"key": "Boar",
+									"value": true
+								},
+								{
+									"key": "ColorfulBird",
+									"value": true
+								},
+								{
+									"key": "Carbunclo",
+									"value": true
+								},
+								{
+									"key": "ElecCat",
+									"value": true
+								},
+								{
+									"key": "CuteFox",
+									"value": true
+								},
+								{
+									"key": "Garm",
+									"value": true
+								},
+								{
+									"key": "Monkey",
+									"value": true
+								},
+								{
+									"key": "Ganesha",
+									"value": true
+								},
+								{
+									"key": "Penguin",
+									"value": true
+								},
+								{
+									"key": "Deer",
+									"value": true
+								},
+								{
+									"key": "FlyingManta",
+									"value": true
+								},
+								{
+									"key": "HawkBird",
+									"value": true
+								},
+								{
+									"key": "FlowerDinosaur",
+									"value": true
+								},
+								{
+									"key": "Serpent",
+									"value": true
+								},
+								{
+									"key": "NightFox",
+									"value": true
+								},
+								{
+									"key": "BluePlatypus",
+									"value": true
+								},
+								{
+									"key": "BerryGoat",
+									"value": true
+								},
+								{
+									"key": "CuteMole",
+									"value": true
+								},
+								{
+									"key": "NegativeOctopus",
+									"value": true
+								},
+								{
+									"key": "DreamDemon",
+									"value": true
+								},
+								{
+									"key": "Alpaca",
+									"value": true
+								},
+								{
+									"key": "NaughtyCat",
+									"value": true
+								},
+								{
+									"key": "CatBat",
+									"value": true
+								},
+								{
+									"key": "Hedgehog",
+									"value": true
+								},
+								{
+									"key": "PlantSlime",
+									"value": true
+								},
+								{
+									"key": "CatMage",
+									"value": true
+								},
+								{
+									"key": "Kirin",
+									"value": true
+								},
+								{
+									"key": "FlameBuffalo",
+									"value": true
+								},
+								{
+									"key": "Eagle",
+									"value": true
+								},
+								{
+									"key": "LizardMan",
+									"value": true
+								},
+								{
+									"key": "BlueDragon",
+									"value": true
+								},
+								{
+									"key": "BirdDragon",
+									"value": true
+								},
+								{
+									"key": "LazyDragon",
+									"value": true
+								},
+								{
+									"key": "LazyCatfish",
+									"value": true
+								},
+								{
+									"key": "MopBaby",
+									"value": true
+								},
+								{
+									"key": "FlameBambi",
+									"value": true
+								},
+								{
+									"key": "Kelpie",
+									"value": true
+								},
+								{
+									"key": "Werewolf",
+									"value": true
+								},
+								{
+									"key": "DarkCrow",
+									"value": true
+								},
+								{
+									"key": "CatVampire",
+									"value": true
+								},
+								{
+									"key": "PinkRabbit",
+									"value": true
+								},
+								{
+									"key": "WeaselDragon",
+									"value": true
+								},
+								{
+									"key": "CaptainPenguin",
+									"value": true
+								},
+								{
+									"key": "KingAlpaca",
+									"value": true
+								},
+								{
+									"key": "NegativeKoala",
+									"value": true
+								},
+								{
+									"key": "PinkLizard",
+									"value": true
+								},
+								{
+									"key": "MopKing",
+									"value": true
+								},
+								{
+									"key": "RaijinDaughter",
+									"value": true
+								},
+								{
+									"key": "SkyDragon",
+									"value": true
+								},
+								{
+									"key": "SakuraSaurus",
+									"value": true
+								},
+								{
+									"key": "SharkKid",
+									"value": true
+								},
+								{
+									"key": "HadesBird",
+									"value": true
+								},
+								{
+									"key": "RobinHood",
+									"value": true
+								},
+								{
+									"key": "FlowerRabbit",
+									"value": true
+								},
+								{
+									"key": "FengyunDeeper",
+									"value": true
+								},
+								{
+									"key": "ThunderBird",
+									"value": true
+								},
+								{
+									"key": "SweetsSheep",
+									"value": true
+								},
+								{
+									"key": "DrillGame",
+									"value": true
+								},
+								{
+									"key": "WindChimes",
+									"value": true
+								},
+								{
+									"key": "IceFox",
+									"value": true
+								},
+								{
+									"key": "FairyDragon",
+									"value": true
+								},
+								{
+									"key": "LittleBriarRose",
+									"value": true
+								},
+								{
+									"key": "Gorilla",
+									"value": true
+								},
+								{
+									"key": "Mutant",
+									"value": true
+								},
+								{
+									"key": "Kelpie_Fire",
+									"value": true
+								},
+								{
+									"key": "HerculesBeetle",
+									"value": true
+								},
+								{
+									"key": "GrassPanda",
+									"value": true
+								},
+								{
+									"key": "GrassMammoth",
+									"value": true
+								},
+								{
+									"key": "Deer_Ground",
+									"value": true
+								},
+								{
+									"key": "GrassPanda_Electric",
+									"value": true
+								},
+								{
+									"key": "ThunderDog",
+									"value": true
+								},
+								{
+									"key": "FlowerDinosaur_Electric",
+									"value": true
+								},
+								{
+									"key": "CuteButterfly",
+									"value": true
+								},
+								{
+									"key": "RobinHood_Ground",
+									"value": true
+								},
+								{
+									"key": "Baphomet_Dark",
+									"value": true
+								},
+								{
+									"key": "SakuraSaurus_Water",
+									"value": true
+								},
+								{
+									"key": "Yeti_Grass",
+									"value": true
+								},
+								{
+									"key": "Ronin",
+									"value": true
+								},
+								{
+									"key": "LazyDragon_Electric",
+									"value": true
+								},
+								{
+									"key": "QueenBee",
+									"value": true
+								},
+								{
+									"key": "VioletFairy",
+									"value": true
+								},
+								{
+									"key": "Hedgehog_Ice",
+									"value": true
+								},
+								{
+									"key": "Bastet",
+									"value": true
+								},
+								{
+									"key": "GrassRabbitMan",
+									"value": true
+								},
+								{
+									"key": "SoldierBee",
+									"value": true
+								},
+								{
+									"key": "RedArmorBird",
+									"value": true
+								},
+								{
+									"key": "Manticore",
+									"value": true
+								},
+								{
+									"key": "FireKirin_Dark",
+									"value": true
+								},
+								{
+									"key": "Manticore_Dark",
+									"value": true
+								},
+								{
+									"key": "Baphomet",
+									"value": true
+								},
+								{
+									"key": "Bastet_Ice",
+									"value": true
+								},
+								{
+									"key": "VolcanicMonster",
+									"value": true
+								},
+								{
+									"key": "CowPal",
+									"value": true
+								},
+								{
+									"key": "IceDeer",
+									"value": true
+								},
+								{
+									"key": "Anubis",
+									"value": true
+								},
+								{
+									"key": "FireKirin",
+									"value": true
+								},
+								{
+									"key": "AmaterasuWolf",
+									"value": true
+								},
+								{
+									"key": "WhiteMoth",
+									"value": true
+								},
+								{
+									"key": "Suzaku",
+									"value": true
+								},
+								{
+									"key": "Umihebi",
+									"value": true
+								},
+								{
+									"key": "Serpent_Ground",
+									"value": true
+								},
+								{
+									"key": "BirdDragon_Ice",
+									"value": true
+								},
+								{
+									"key": "LavaGirl",
+									"value": true
+								},
+								{
+									"key": "DarkScorpion",
+									"value": true
+								}
+							],
+							"type": "MapProperty"
+						},
+						"PalCaptureCountBonusCount_Tier1": {
+							"id": null,
+							"value": 592,
+							"type": "IntProperty"
+						},
+						"PalCaptureCountBonusCount_Tier2": {
+							"id": null,
+							"value": 28,
+							"type": "IntProperty"
+						},
+						"PalCaptureCountBonusCount_Tier3": {
+							"id": null,
+							"value": 59,
+							"type": "IntProperty"
+						},
+						"RelicObtainForInstanceFlag": {
+							"key_type": "NameProperty",
+							"value_type": "BoolProperty",
+							"key_struct_type": null,
+							"value_struct_type": null,
+							"id": null,
+							"value": [
+								{
+									"key": "6DF591234CACF474A68749BF080AC5BA",
+									"value": true
+								},
+								{
+									"key": "F6974F26465A10C0BFC891962D02BE0D",
+									"value": true
+								},
+								{
+									"key": "A360858E448AF927AF914D8E9D74E416",
+									"value": true
+								},
+								{
+									"key": "6A4744544927D603CC8C3993B4411F89",
+									"value": true
+								},
+								{
+									"key": "F7E049A14647DEDE492569A8CBFB3AEB",
+									"value": true
+								},
+								{
+									"key": "DA1938814973E31858C870A27AE08BD0",
+									"value": true
+								},
+								{
+									"key": "7D3A585F4CEFCAFE7C262394D6DEA845",
+									"value": true
+								},
+								{
+									"key": "D1917BED4C918F31E082C4872AC226FA",
+									"value": true
+								},
+								{
+									"key": "5229005A47071DDBB699E6B5DCC8B678",
+									"value": true
+								},
+								{
+									"key": "110687784959461EB701A7B840AFCF96",
+									"value": true
+								},
+								{
+									"key": "F8C928554A80DEBF93C25FAC6E5AD604",
+									"value": true
+								},
+								{
+									"key": "099F24204E412F1BA1B8EEB0EE4CC406",
+									"value": true
+								},
+								{
+									"key": "32B472714CB2984C4A2EF8B1EF716838",
+									"value": true
+								},
+								{
+									"key": "6A2AE93641023E6406DB1CA5D354E604",
+									"value": true
+								},
+								{
+									"key": "8BCDE3654504C5823162BE83EB674216",
+									"value": true
+								},
+								{
+									"key": "BCAFB9B146B1E555921E2983BBABE640",
+									"value": true
+								},
+								{
+									"key": "2DF46B6C4764BBDF4C370AB1C49757FE",
+									"value": true
+								},
+								{
+									"key": "00A068BF4C28E32DDF7D07865B933295",
+									"value": true
+								},
+								{
+									"key": "437992C941DA8F34C3E3FC9B82A332CC",
+									"value": true
+								},
+								{
+									"key": "0CA1CBB84957413FF8FEF2877E7FCE1B",
+									"value": true
+								},
+								{
+									"key": "4D10E6B94AE2EE55C3B2458A83B91961",
+									"value": true
+								},
+								{
+									"key": "57BAE06341018F4DA7D16A9DCD097759",
+									"value": true
+								},
+								{
+									"key": "C8BA41384E30B7FA28705195A0788643",
+									"value": true
+								},
+								{
+									"key": "047D6738462C5807DE94DCA7E678BC65",
+									"value": true
+								},
+								{
+									"key": "008FAEEA4A7658955323A190E5D3142E",
+									"value": true
+								},
+								{
+									"key": "696283994BC4D82F381346A000D969BF",
+									"value": true
+								},
+								{
+									"key": "A0E2AB764338CE9B9A549D8E09467A7A",
+									"value": true
+								},
+								{
+									"key": "1F4B6F624B807B9DBBFA45AA4C06CD4E",
+									"value": true
+								},
+								{
+									"key": "2D2B0E174E5D7B24F0C3EE802D1B86E0",
+									"value": true
+								},
+								{
+									"key": "AC2F287B481EEF21B1C47392B8FEC534",
+									"value": true
+								},
+								{
+									"key": "A43563A7460DEC5F339267AC8E986938",
+									"value": true
+								},
+								{
+									"key": "A3E6E01344031D7480822BB1B094C49D",
+									"value": true
+								},
+								{
+									"key": "F65A4AA74D816734BA9FC0AFCCB93F05",
+									"value": true
+								},
+								{
+									"key": "29DAD20343BE7B007019B89E540EF133",
+									"value": true
+								},
+								{
+									"key": "6B216B174D257553C2F18094567B7992",
+									"value": true
+								},
+								{
+									"key": "3DE122F346F70CFA961C7E949F0C879C",
+									"value": true
+								},
+								{
+									"key": "74C730DC45159B7C08D024BC6CA99243",
+									"value": true
+								},
+								{
+									"key": "7DBEA2174D9767F67E3077BAEB0C0A51",
+									"value": true
+								},
+								{
+									"key": "4C52401E446D083834AC5994E92E4615",
+									"value": true
+								},
+								{
+									"key": "0302078A4C2E567C2D81B99493A76F60",
+									"value": true
+								},
+								{
+									"key": "EA073EA54A7A8E4464A9C1A71AD4DEFA",
+									"value": true
+								},
+								{
+									"key": "ECD56F3D4830A840BD4AC486D16AFD94",
+									"value": true
+								},
+								{
+									"key": "CCC7CED2429C7A39FBA43CB80533EE13",
+									"value": true
+								},
+								{
+									"key": "7B3AA6BD4A60381E9E683F9F9FD21CF9",
+									"value": true
+								},
+								{
+									"key": "6F971B0B4B4BD0BE22DCFF9D764C2D87",
+									"value": true
+								},
+								{
+									"key": "03505B8C41418C8E4F093FA7B1D3A44D",
+									"value": true
+								},
+								{
+									"key": "4C7961DE42CF1C6D9BE54EB86997313C",
+									"value": true
+								},
+								{
+									"key": "CBBD0BEC48B28DE935277CAB8EB75669",
+									"value": true
+								},
+								{
+									"key": "B8919B664C1FC69132058081DB1360EF",
+									"value": true
+								},
+								{
+									"key": "72752B3645F6BC82F997B2801AB1E6C3",
+									"value": true
+								},
+								{
+									"key": "A3FE59C5405E806A2B88DCA1561C0F0E",
+									"value": true
+								},
+								{
+									"key": "219EFCD14008657583EF74A7063818AB",
+									"value": true
+								},
+								{
+									"key": "7D5E18984F78A70E792F2F9E6F253002",
+									"value": true
+								},
+								{
+									"key": "40441363454B4F6C391848989032BA49",
+									"value": true
+								},
+								{
+									"key": "D84FBE7D4670D6DE3B559992E1BC30B0",
+									"value": true
+								},
+								{
+									"key": "75D6CF6546BC8494AC8C6CB47BE9E040",
+									"value": true
+								},
+								{
+									"key": "27DB93D3487B2144C89CA79227927023",
+									"value": true
+								},
+								{
+									"key": "9E236141475508390E441380232FBFEC",
+									"value": true
+								},
+								{
+									"key": "0281828F425CC4331AB0F38ECE226088",
+									"value": true
+								},
+								{
+									"key": "7CEA05054179699A91BF559065AEB2F2",
+									"value": true
+								},
+								{
+									"key": "E7C337DE4BD8DC7E54280F859828D335",
+									"value": true
+								},
+								{
+									"key": "3EEFF8DE4E9D732CF41740841098480E",
+									"value": true
+								},
+								{
+									"key": "9FF65BD844567FDC73655BA090CE8AAD",
+									"value": true
+								},
+								{
+									"key": "6A686D9E43BA834AB61202BB43F6AC84",
+									"value": true
+								},
+								{
+									"key": "243765FA4D16072940E67190E0C106F9",
+									"value": true
+								},
+								{
+									"key": "FE90EE264B5B6B9097D891A779E574E1",
+									"value": true
+								},
+								{
+									"key": "0D0BF38A4E8EF27A57F81CB5154C4633",
+									"value": true
+								},
+								{
+									"key": "A268530447118301470C7AB2B9321C37",
+									"value": true
+								},
+								{
+									"key": "65AF6C8C44650974590B73AF335E379B",
+									"value": true
+								},
+								{
+									"key": "DEE20FCD4F36E21061DD638C946E7350",
+									"value": true
+								},
+								{
+									"key": "C18C1B0A4E34F0A1483D998B2118F10B",
+									"value": true
+								},
+								{
+									"key": "6EC7B5894CD1AF8EBBA09BB806B5159E",
+									"value": true
+								},
+								{
+									"key": "5E6C9FF94A591C09F59D79A2CD930B6F",
+									"value": true
+								},
+								{
+									"key": "7083643D4CCFE3FF924B7E8464126CC0",
+									"value": true
+								},
+								{
+									"key": "A602E36E4048E760883727BB61531245",
+									"value": true
+								},
+								{
+									"key": "FDCD00E74288268441BBDABE30259425",
+									"value": true
+								},
+								{
+									"key": "B4283FC847577F08AF9815BA9EDCF8D5",
+									"value": true
+								},
+								{
+									"key": "B217F6C544874E373C00CD9DA55D3A0F",
+									"value": true
+								},
+								{
+									"key": "263547944FF57FC953A325BF02F5A61D",
+									"value": true
+								},
+								{
+									"key": "84A48481457B2BC2FDDE2CBF2832FD44",
+									"value": true
+								},
+								{
+									"key": "491A94DC414A73975100BF84B0D04F42",
+									"value": true
+								},
+								{
+									"key": "D1EDB7AF4660B0B428B1AFB9F031C590",
+									"value": true
+								},
+								{
+									"key": "5C3BAE9E461C942C821E52959CD13A52",
+									"value": true
+								},
+								{
+									"key": "2122EA7140DFADD7013A239AA51C044F",
+									"value": true
+								},
+								{
+									"key": "20EBCF62447D3E25EAE3FAA4B28BC611",
+									"value": true
+								},
+								{
+									"key": "BDEF577546E59F347439598FE82E8E8F",
+									"value": true
+								},
+								{
+									"key": "BF69CDD34E2112673ECF7D860F16BA24",
+									"value": true
+								},
+								{
+									"key": "2AF83062492C3EFE6D1592A97FF5F5DA",
+									"value": true
+								},
+								{
+									"key": "BDF589CE46446C60D7A80995B790B7EB",
+									"value": true
+								},
+								{
+									"key": "3AB9CE5C4B8A44C17F118F86035C6DC3",
+									"value": true
+								},
+								{
+									"key": "12A95C214AA3D49F4D2C57B78F7985B1",
+									"value": true
+								},
+								{
+									"key": "1D48FEBA467E5841994178B7B808130C",
+									"value": true
+								},
+								{
+									"key": "34ADE93F41269063F25BF38E7D2BBF8D",
+									"value": true
+								},
+								{
+									"key": "EF63298C4CDC4033C8F205880DD5205D",
+									"value": true
+								},
+								{
+									"key": "28CB901F4D4603075D1939A8CAAE14A7",
+									"value": true
+								},
+								{
+									"key": "3F32194747AE9B883B1A9985BE584392",
+									"value": true
+								},
+								{
+									"key": "0DAC0DB84418184A2E0A82938C594A16",
+									"value": true
+								},
+								{
+									"key": "BCBB46604B91E74D1A870DA7267D8CB8",
+									"value": true
+								},
+								{
+									"key": "D979B15740FF4660777D4D9BC1C4BA5E",
+									"value": true
+								},
+								{
+									"key": "DCA92F2545C98E3553004285BAE23754",
+									"value": true
+								},
+								{
+									"key": "C50B4331425AD7745E247C8AD9553EFD",
+									"value": true
+								},
+								{
+									"key": "61A7FF7343DF8368E1E6098925FF4960",
+									"value": true
+								},
+								{
+									"key": "A35549F14A60465C4B3A71AAC96D458F",
+									"value": true
+								},
+								{
+									"key": "6D668C844129793E30B5F395EEDEBF96",
+									"value": true
+								},
+								{
+									"key": "4A67B45943D38C899E9DBFA6EE436E22",
+									"value": true
+								},
+								{
+									"key": "08601EE54E7FBA3902737DAEF2F84016",
+									"value": true
+								},
+								{
+									"key": "5CBF30E84CA7F6B95813818387B45BF2",
+									"value": true
+								},
+								{
+									"key": "07545C7B4BB6BBA63C246B84F99A998F",
+									"value": true
+								},
+								{
+									"key": "55948DDD41D315C905206ABD81E7019C",
+									"value": true
+								},
+								{
+									"key": "E916A91B49342AB4A4BD45B74AAFAAF2",
+									"value": true
+								},
+								{
+									"key": "71943897422D30DF62372DA5881064B3",
+									"value": true
+								},
+								{
+									"key": "A3A1A15C455C30BEFB950D945BC6FC07",
+									"value": true
+								},
+								{
+									"key": "52E8F1F641E1E211DE2483AB40EE67ED",
+									"value": true
+								},
+								{
+									"key": "4DA7B97242E0D8A140157EAFD104F2B8",
+									"value": true
+								},
+								{
+									"key": "1E15689D486E45F63DD3888A01096A6B",
+									"value": true
+								},
+								{
+									"key": "9B171E8246372372D29CDCAB3B1055A2",
+									"value": true
+								},
+								{
+									"key": "49D0419A456A370581F5F5BB1F0A6649",
+									"value": true
+								},
+								{
+									"key": "09FBA23F4CAF8A1C93CBF7B2EE930D23",
+									"value": true
+								},
+								{
+									"key": "97FB6B534E107CE4E719229FEFC2CAC2",
+									"value": true
+								},
+								{
+									"key": "4D1D2D0643AB1058F118C18B06A804F4",
+									"value": true
+								},
+								{
+									"key": "B9DD5C1643B0CBE1E6DB678BB2E0D6DD",
+									"value": true
+								},
+								{
+									"key": "BDC3B5FB4CA1DFA3B2C83A9C8382EE5A",
+									"value": true
+								},
+								{
+									"key": "4379F5694529BF5AB5FD83A9BDE21BB5",
+									"value": true
+								},
+								{
+									"key": "DF208AE449B4A18CD240D59BAA07F2A4",
+									"value": true
+								},
+								{
+									"key": "BB7E2C3F45306800466A20A524D61706",
+									"value": true
+								},
+								{
+									"key": "C8F3D0AD494FEF8779F519AB69717F84",
+									"value": true
+								},
+								{
+									"key": "630D546A4FEF9C4036BFC9B31C888EDA",
+									"value": true
+								},
+								{
+									"key": "D8CA4F4F413103D7BB9012B1C47E3BAE",
+									"value": true
+								},
+								{
+									"key": "81F0A3354CBA6423FD7CD4B2AD694801",
+									"value": true
+								},
+								{
+									"key": "1F413F5D4C60C6F9FFA4B5AB45C810D8",
+									"value": true
+								},
+								{
+									"key": "C005EF5C4FDF3ABC8088BFB66705BEE0",
+									"value": true
+								},
+								{
+									"key": "2D5B025E490125298869E89B0658ECFA",
+									"value": true
+								},
+								{
+									"key": "04FE47374849876D3339BAA610391880",
+									"value": true
+								},
+								{
+									"key": "CB436F1A4047E5852B9500BD3694DD6B",
+									"value": true
+								},
+								{
+									"key": "2022728B4B66837F424363BE8A6FBBEB",
+									"value": true
+								},
+								{
+									"key": "A41C6171452D0755F0AC9E959F3D94CE",
+									"value": true
+								},
+								{
+									"key": "BA6D1B934AFB81083ABB13A4A0973798",
+									"value": true
+								},
+								{
+									"key": "B0AA171B48BAF5EC7B5BFFBD5C9766D3",
+									"value": true
+								},
+								{
+									"key": "A9BD549F4C0C5604B104568F1101E786",
+									"value": true
+								},
+								{
+									"key": "6CA78AF74504A5AC88A5BE8FF8D9F399",
+									"value": true
+								},
+								{
+									"key": "3D9263B94CA576D6C0ABB680573CC4C1",
+									"value": true
+								},
+								{
+									"key": "1DC0898A45ED48935297D297D0F72718",
+									"value": true
+								},
+								{
+									"key": "665B347C4A056FE1245ED5A8F9D39DE6",
+									"value": true
+								},
+								{
+									"key": "E4CCA3164C726E1322ACF4A59F349723",
+									"value": true
+								},
+								{
+									"key": "9B2195DC41F175C0CA3BFAA401C4FD79",
+									"value": true
+								},
+								{
+									"key": "56124ABD45A00948DD0263AA1AD504C8",
+									"value": true
+								},
+								{
+									"key": "AF9415FF405293DA3EB134AEE3ADEE0A",
+									"value": true
+								},
+								{
+									"key": "51C2F2B945B5C694611554B33465197C",
+									"value": true
+								},
+								{
+									"key": "177DACE14502183F9AF2FC8BE9E3D44A",
+									"value": true
+								},
+								{
+									"key": "3154850E40007D563A748FAB5B251AE0",
+									"value": true
+								},
+								{
+									"key": "1E0FB21749269395879F00A96B7859A4",
+									"value": true
+								},
+								{
+									"key": "DB171F934E4CC6D73EA899BDC5D27958",
+									"value": true
+								},
+								{
+									"key": "A982DB424CB1B339C0B667B379C2D827",
+									"value": true
+								},
+								{
+									"key": "A88A5FE1471AE6B802081B877EA5DC1C",
+									"value": true
+								},
+								{
+									"key": "8D664B8B4EE1FACD644F0CB24820546B",
+									"value": true
+								},
+								{
+									"key": "0A50F2AA43BEAB2AB281C4B08D5E4F53",
+									"value": true
+								},
+								{
+									"key": "0EFD47994161F3A948DFD39B878988F0",
+									"value": true
+								},
+								{
+									"key": "DC38FB994FD09BB72D842498AB4FAD8B",
+									"value": true
+								},
+								{
+									"key": "E8FA73ED46DE830D91C2DB8DB5EC1123",
+									"value": true
+								},
+								{
+									"key": "3DDB92D34C70A8A4D1D573AD6445B55A",
+									"value": true
+								},
+								{
+									"key": "1DAB346C48FDCC4DEAF501883039703F",
+									"value": true
+								},
+								{
+									"key": "950640AE4BCA06E9399E6783C4CCDC0D",
+									"value": true
+								},
+								{
+									"key": "3111FB35443A4EF2E1C26DB99C44E6B8",
+									"value": true
+								},
+								{
+									"key": "D2506521436592CEDFEBB59E32086F86",
+									"value": true
+								},
+								{
+									"key": "CA4BE85E4F23F8BEAF3BCA94B712C9EE",
+									"value": true
+								},
+								{
+									"key": "8565CC4242BEE5A8771DEB9693B2EE35",
+									"value": true
+								},
+								{
+									"key": "EE5650754259BE7072E7789BF533C53D",
+									"value": true
+								},
+								{
+									"key": "A6FDB8FC430BF12ACDB69B9A0E45C78F",
+									"value": true
+								},
+								{
+									"key": "42DC77FB45BB23C83DAAE6B1F3F517E7",
+									"value": true
+								},
+								{
+									"key": "FFC84CEE440AEE8B616215AEB56AF0B5",
+									"value": true
+								},
+								{
+									"key": "BCB9461240E67524592E58A03775C7EC",
+									"value": true
+								},
+								{
+									"key": "172313F643EE8DD7430C58AF70F95993",
+									"value": true
+								},
+								{
+									"key": "7196345E496A2264FD10DFBBFFE8CA5B",
+									"value": true
+								},
+								{
+									"key": "5E9C7CB3484B5ED33551AE99337DC182",
+									"value": true
+								},
+								{
+									"key": "27E41AF74093E848828E60B328915D98",
+									"value": true
+								},
+								{
+									"key": "E2F0D38D4BF7A68056125382AFAA8E6C",
+									"value": true
+								},
+								{
+									"key": "5DC4E46C44955AFD8964E88AE0A089A9",
+									"value": true
+								},
+								{
+									"key": "A82B62294EF3AA391D0A3BBBA2ACB89C",
+									"value": true
+								},
+								{
+									"key": "A3626D264B90759B454FCD825E55738E",
+									"value": true
+								},
+								{
+									"key": "4C8DE1D443F94E2AD79A18A7FB1F7ACD",
+									"value": true
+								},
+								{
+									"key": "41F03E9D4CF93547CA5806A21CCB3B6D",
+									"value": true
+								},
+								{
+									"key": "B9A36C3E49929005068103A5C0420B97",
+									"value": true
+								},
+								{
+									"key": "10941D7941D90332952B4FA470ABE515",
+									"value": true
+								},
+								{
+									"key": "4D61A45F4FF43FBAEAB902AC57CDA1F0",
+									"value": true
+								},
+								{
+									"key": "EC20140543804F88E0943F9A5C1765EB",
+									"value": true
+								},
+								{
+									"key": "8ECF58564560CF995B2D63BD1E32EDD8",
+									"value": true
+								}
+							],
+							"type": "MapProperty"
+						},
+						"RelicPossessNum": {
+							"id": null,
+							"value": 13,
+							"type": "IntProperty"
+						},
+						"NoteObtainForInstanceFlag": {
+							"key_type": "NameProperty",
+							"value_type": "BoolProperty",
+							"key_struct_type": null,
+							"value_struct_type": null,
+							"id": null,
+							"value": [
+								{
+									"key": "Day1-1",
+									"value": true
+								},
+								{
+									"key": "Day-xx",
+									"value": true
+								},
+								{
+									"key": "Day2",
+									"value": true
+								},
+								{
+									"key": "Day18",
+									"value": true
+								},
+								{
+									"key": "Day3",
+									"value": true
+								},
+								{
+									"key": "Day11",
+									"value": true
+								},
+								{
+									"key": "Day8",
+									"value": true
+								},
+								{
+									"key": "Day10",
+									"value": true
+								},
+								{
+									"key": "ForestBoss1",
+									"value": true
+								},
+								{
+									"key": "Day38",
+									"value": true
+								},
+								{
+									"key": "Day12-3",
+									"value": true
+								},
+								{
+									"key": "Day1-2",
+									"value": true
+								},
+								{
+									"key": "ForestBoss3",
+									"value": true
+								},
+								{
+									"key": "SnowBoss1",
+									"value": true
+								},
+								{
+									"key": "Day32",
+									"value": true
+								},
+								{
+									"key": "GrassBoss2",
+									"value": true
+								},
+								{
+									"key": "DesertBoss1",
+									"value": true
+								},
+								{
+									"key": "Day30",
+									"value": true
+								}
+							],
+							"type": "MapProperty"
+						},
+						"FastTravelPointUnlockFlag": {
+							"key_type": "NameProperty",
+							"value_type": "BoolProperty",
+							"key_struct_type": null,
+							"value_struct_type": null,
+							"id": null,
+							"value": [
+								{
+									"key": "6E03F8464BAD9E458B843AA30BE1CC8F",
+									"value": true
+								},
+								{
+									"key": "DDBBFFAF43D9219AE68DF98744DF0831",
+									"value": true
+								},
+								{
+									"key": "979BF2044C8E8FE559B598A95A83EDE3",
+									"value": true
+								},
+								{
+									"key": "603ED0CD4CFB9AFDC9E11F805594CCE5",
+									"value": true
+								},
+								{
+									"key": "41727100495D21DC905D309C53989914",
+									"value": true
+								},
+								{
+									"key": "D27AFCAD472164F000D33A8D8B61FE8B",
+									"value": true
+								},
+								{
+									"key": "9FBB93D84811BE424A37C391DBFBB476",
+									"value": true
+								},
+								{
+									"key": "7170881D44249E90902F728E240493AF",
+									"value": true
+								},
+								{
+									"key": "6282FE1E4029EDCDB14135AA4C171E4C",
+									"value": true
+								},
+								{
+									"key": "F6C005A14B38FE0B57F1C7869FD899CB",
+									"value": true
+								},
+								{
+									"key": "6DB6B7B2431CA2EFFFC88EB45805BA6A",
+									"value": true
+								},
+								{
+									"key": "16C7164C43E2B96BEDCC6696E2E592F7",
+									"value": true
+								},
+								{
+									"key": "B44AA24445864494E7569597ACCAEFC6",
+									"value": true
+								},
+								{
+									"key": "3A0F123947BE045BC415C6B061A5285A",
+									"value": true
+								},
+								{
+									"key": "2BC5E46049E69D3549CFB58948BE3288",
+									"value": true
+								},
+								{
+									"key": "23B9E99C4A454B99220AF7B4A58FD8DE",
+									"value": true
+								},
+								{
+									"key": "8CA5E9774FF1BBC1156ABCA09E616480",
+									"value": true
+								},
+								{
+									"key": "3E8E504B4A3975FD3862E1BC85A5D4F6",
+									"value": true
+								},
+								{
+									"key": "91DAC6F34D2A9FD7F01471B5166C6C02",
+									"value": true
+								},
+								{
+									"key": "DF9FB9CB41B43052A9C74FA79A826A50",
+									"value": true
+								},
+								{
+									"key": "74270C2F45B8DCA66B6A1FAAA911D024",
+									"value": true
+								},
+								{
+									"key": "B001852C491FF5E70C4747BFF9972924",
+									"value": true
+								},
+								{
+									"key": "76B000914943BADDC56BCFBAE2BF051E",
+									"value": true
+								},
+								{
+									"key": "F382ADAE4259150BF994FF873ECF242B",
+									"value": true
+								},
+								{
+									"key": "3697999C458BF8A3C7973382969FBDF9",
+									"value": true
+								},
+								{
+									"key": "1BDEABA240B1699541C17F83E59E61DF",
+									"value": true
+								},
+								{
+									"key": "EC94023A4CA571FF0FD19E90944F4231",
+									"value": true
+								},
+								{
+									"key": "79C561B747335A7A0A8FBF9FAE280E62",
+									"value": true
+								},
+								{
+									"key": "5970E8E648D2A83AFDFF7C9151D9BEF5",
+									"value": true
+								},
+								{
+									"key": "B639B7ED4EE18A7AA09BA189EA703032",
+									"value": true
+								},
+								{
+									"key": "A1BC65AA445619EF338E0388BC010648",
+									"value": true
+								},
+								{
+									"key": "F8E5CB8143F4FA2F6213E6B454569F87",
+									"value": true
+								},
+								{
+									"key": "01ACCA6E4BDAA68220821FB05AB54E4D",
+									"value": true
+								},
+								{
+									"key": "923B781345D2AB7ECED6BABD6E97ECE8",
+									"value": true
+								},
+								{
+									"key": "BF8B123244ADB794A06EA8A10503FBDD",
+									"value": true
+								},
+								{
+									"key": "7C5E91514F6E84B0C1DEFFB52C7C4DBA",
+									"value": true
+								},
+								{
+									"key": "15314BE94E2FB8D018D5749BE9A318F0",
+									"value": true
+								},
+								{
+									"key": "F8DF603B4C750B37D943C9AF6A911946",
+									"value": true
+								},
+								{
+									"key": "2DE1702048A1D4A82126168C49BE51A9",
+									"value": true
+								},
+								{
+									"key": "596996B948716D3FD2283C8B5C6E829C",
+									"value": true
+								},
+								{
+									"key": "28D514E74B51FD9EB078A891DB0787C2",
+									"value": true
+								},
+								{
+									"key": "6231802D40C81C00445379AE238D9F90",
+									"value": true
+								},
+								{
+									"key": "65B10BB14ABDA9C2109167B21901D195",
+									"value": true
+								},
+								{
+									"key": "FE90632845114C7FBFA4669D071E285F",
+									"value": true
+								},
+								{
+									"key": "513E166044565A0BD3360F94142577E8",
+									"value": true
+								},
+								{
+									"key": "E88379634CB5B6117DA2E7B8810BFE0A",
+									"value": true
+								},
+								{
+									"key": "A277AE6341EF40D84D711EA52303353F",
+									"value": true
+								},
+								{
+									"key": "866881DB443444AA7F4E7C8E5DCDAA29",
+									"value": true
+								},
+								{
+									"key": "ACAE5FB04D48DE4197443E9C0993086B",
+									"value": true
+								},
+								{
+									"key": "4D2F204549AB656CA1EA4B8E39C484F3",
+									"value": true
+								},
+								{
+									"key": "71C4B2B2407F2BBBD77572A20C7FF0F5",
+									"value": true
+								},
+								{
+									"key": "41E36D9A4B2BA79A3AD1B7B83B16F77D",
+									"value": true
+								},
+								{
+									"key": "5F426B49469368B0C131D3A6DB8F7831",
+									"value": true
+								},
+								{
+									"key": "AECFED0D41AFEE11F30B4F9687BC3243",
+									"value": true
+								},
+								{
+									"key": "DC0ECF9241B4410C59EE619F56D1106A",
+									"value": true
+								},
+								{
+									"key": "22095BFA48A46172F8D154B2EBEB7493",
+									"value": true
+								},
+								{
+									"key": "099440764403D1508D9BADADF4848697",
+									"value": true
+								},
+								{
+									"key": "E0819EFB41581AEAC3A029B0EE2FE195",
+									"value": true
+								}
+							],
+							"type": "MapProperty"
+						}
+					},
+					"type": "StructProperty"
+				},
+				"bIsSelectedInitMapPoint": {
+					"value": true,
+					"id": null,
+					"type": "BoolProperty"
+				}
+			},
+			"type": "StructProperty"
+		}
+	},
+	"trailer": "AAAAAA=="
+}
