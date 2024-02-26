@@ -40,7 +40,7 @@ function checkServer() {
 
     // Check PalWorld status
     var palworldUrl = "http://methpals.duckdns.org:8211"; // Assuming this is the URL for PalWorld status
-    var PalworldStatusElement = document.getElementById("palworld-status");
+    var palworldStatusElement = document.getElementById("palworld-status");
 
     fetch(palworldUrl)
     .then(response => {
