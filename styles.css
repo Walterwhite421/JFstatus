@@ -14,6 +14,8 @@ body {
     color: white; /* Text color inside the box */
     padding: 20px;
     border: 2px solid white; /* Add a white border */
+    text-align: center; /* Center the text */
+    margin-bottom: 20px; /* Add margin at the bottom */
 }
 
 .status-container {
@@ -21,11 +23,11 @@ body {
     color: white; /* Text color inside the box */
     padding: 20px;
     border: 2px solid white; /* Add a white border */
-    margin-top: 20px; /* Add margin at the top */
+    text-align: left; /* Align text to the left */
 }
 
 h1, p {
-    margin-top: 10px; /* Add margin between elements */
+    margin: 0; /* Remove default margin */
 }
 
 .status {
