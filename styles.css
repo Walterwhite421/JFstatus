@@ -15,6 +15,12 @@ body {
     border: 2px solid white; /* Add a white border */
 }
 
+.status-container {
+    background-color: rgba(0, 0, 0, 0.8); /* Dark black box with opacity */
+    color: white; /* Text color inside the box */
+    padding: 20px;
+    border: 2px solid white; /* Add a white border */
+}
 h1, p {
     margin-top: 10px; /* Add margin between elements */
 }
