@@ -1,0 +1,33 @@
+/* Styles for the leaderboard */
+body {
+    background-color: #87CEEB; /* Sky blue background color */
+    font-family: 'AniMe Matrix', sans-serif; /* Use AniMe Matrix font */
+}
+
+.leaderboard {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-color: #FFF; /* White background for leaderboard */
+}
+
+.title {
+    color: #000; /* Black text color */
+    text-align: center;
+}
+
+/* Styles for the blank box */
+.blankBox {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+/* Styles for player details */
+#playerDetails {
+    /* Add your styles here */
+}
+
