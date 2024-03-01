@@ -1,11 +1,11 @@
 /* Styles for the leaderboard */
 body {
     background-color: #87CEEB; /* Sky blue background color */
-    font-family: 'AniMe Matrix', sans-serif; /* Use AniMe Matrix font */
 }
 
    
 .leaderboard {
+	font-family: 'AniMe Matrix', sans-serif; /* Use AniMe Matrix font */
     width: 50%;
     margin: 0 auto;
     padding: 20px;
@@ -15,6 +15,7 @@ body {
 }
 
 .blankBox {
+	font-family: 'AniMe Matrix', sans-serif; /* Use AniMe Matrix font */
     color: white;
     background-color: rgba(0, 0, 0, 0.9); /* Semi-transparent background for better readability */
     padding: 10px;
@@ -23,6 +24,7 @@ body {
 }
 
 .title {
+	font-family: 'Comic Sans MS', cursive;
     color: #000; /* Black text color */
     text-align: center;
 }
