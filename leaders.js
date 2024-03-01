@@ -13,8 +13,17 @@ function updatePlayerDetails() {
                 <p>Most Pals Caught: ${data.mostPalsCaught}</p>
             `;
 
-            // Append the HTML content to the .blankBox container
-            document.querySelector('.blankBox').innerHTML = htmlContent;
+            // Create a new div element to hold the HTML content
+            let playerDetailsDiv = document.createElement('div');
+            playerDetailsDiv.innerHTML = htmlContent;
+
+            // Find the blankBox element
+            let blankBox = document.querySelector('.blankBox');
+            // Find the <h2>Player Details</h2> element
+            let playerDetailsHeading = blankBox.querySelector('h2');
+
+            // Insert the player details div after the <h2>Player Details</h2> element
+            blankBox.insertBefore(playerDetailsDiv, playerDetailsHeading.nextElementSibling);
         })
         .catch(error => console.error('Error fetching player details:', error));
 }
