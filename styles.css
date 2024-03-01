@@ -25,7 +25,7 @@ body {
     border: 2px solid white; /* Add a white border */
     text-align: left; /* Align text to the left */
 	position: absolute;
-	left: 0;
+	left: 50%;
 }	
 
 h1, p {
