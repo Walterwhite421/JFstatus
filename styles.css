@@ -24,10 +24,14 @@ body {
     padding: 30px;
     border: 2px solid white; /* Add a white border */
     text-align: left; /* Align text to the left */
-	position: absolute;
-	left: 0;
+    position: absolute;
+    left: 0;
+    top: 50%; /* Position it vertically at the middle of the page */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+    width: calc(100% - 40px); /* Width of the container minus the padding */
+    max-width: 600px; /* Set a max-width to prevent it from stretching too wide */
+    margin-left: 20px; /* Add margin to the left to create some space from the edge */
 }
-
 h1, p {
     margin: 0; /* Remove default margin */
 }
