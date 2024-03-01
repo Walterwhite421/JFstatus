@@ -20,14 +20,16 @@ body {
 
 .status-container {
     background-color: rgba(0, 0, 0, 0.8); /* Dark black box with opacity */
-    container-position: left;
     color: white; /* Text color inside the box */
     padding: 30px;
     border: 2px solid white; /* Add a white border */
     text-align: left; /* Align text to the left */
-	position: absolute;
-	left: 5%;
-}	
+    width: 80%; /* Set a width for the container */
+    max-width: 600px; /* Set a max-width to prevent it from stretching too wide */
+    margin-left: auto; /* Align to the left */
+    margin-right: auto; /* Align to the right */
+}
+
 
 h1, p {
     margin: 0; /* Remove default margin */
