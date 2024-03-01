@@ -39,7 +39,7 @@ function checkServer() {
     });
 
     // Check PalWorld status
-    var palworldUrl = "_8211._https.methpals.duckdns.org"; // Assuming this is the URL for PalWorld status
+    var palworldUrl = "http://163.182.113.209:8211"; // Assuming this is the URL for PalWorld status
     var palworldStatusElement = document.getElementById("palworld-status");
 
     fetch(palworldUrl)
