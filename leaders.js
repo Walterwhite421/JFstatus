@@ -1,6 +1,6 @@
 function updatePlayerDetails() {
     // Make an AJAX request to fetch player details from the server
-    fetch('http://remote-machine-ip:3000/player-details')
+    fetch('192.168.1.15/palleaders')
         .then(response => response.json())
         .then(data => {
             // Generate HTML content for player details
