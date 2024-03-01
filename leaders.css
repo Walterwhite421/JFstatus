@@ -2,7 +2,12 @@
 body {
     background-color: #87CEEB; /* Sky blue background color */
 }
-
+.gif {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1; /* Ensure the GIF is above other elements */
+}
    
 .leaderboard {
 	font-family: Papyrus, fantasy;

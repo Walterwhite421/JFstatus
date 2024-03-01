@@ -5,12 +5,7 @@ body {
     display: flex;
     height: 100vh; /* Make sure the container fills the viewport height */
 }
-.gif {
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 1; /* Ensure the GIF is above other elements */
-}
+
 
 
 .container {
