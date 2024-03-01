@@ -5,7 +5,7 @@ body {
 
    
 .leaderboard {
-	font-family: Papyrus, fantasy; /* Use AniMe Matrix font */
+	font-family: Papyrus, fantasy, cursive; /* Use AniMe Matrix font */
     width: 50%;
     margin: 0 auto;
     padding: 20px;
