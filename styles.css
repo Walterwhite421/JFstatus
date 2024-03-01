@@ -2,10 +2,8 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #190182;
-    display: flex;
-    flex-direction: column; /* Arrange items vertically */
-    align-items: center; /* Center horizontally */
-    justify-content: center; /* Center vertically */
+   /* display: flex;
+   /* flex-direction: column; /* Arrange items vertically */
     height: 100vh; /* Make sure the container fills the viewport height */
 }
 
@@ -18,16 +16,17 @@ body {
     margin-bottom: 20px; /* Add margin at the bottom */
 }
 
-.status-container {
+ .status-container {
     background-color: rgba(0, 0, 0, 0.8); /* Dark black box with opacity */
     container-position: left;
     color: white; /* Text color inside the box */
     padding: 30px;
     border: 2px solid white; /* Add a white border */
     text-align: left; /* Align text to the left */
-    position: absolute;
-    left: 5%;
+	position: absolute;
+	
 }	
+
 
 h1, p {
     margin: 0; /* Remove default margin */
