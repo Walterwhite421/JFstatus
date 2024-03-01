@@ -20,12 +20,13 @@ body {
 
 .status-container {
     background-color: rgba(0, 0, 0, 0.8); /* Dark black box with opacity */
+    container-position: left;
     color: white; /* Text color inside the box */
     padding: 30px;
     border: 2px solid white; /* Add a white border */
     text-align: left; /* Align text to the left */
 	position: absolute;
-	left: 50%;
+	left: 5%;
 }	
 
 h1, p {
