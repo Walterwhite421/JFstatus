@@ -5,27 +5,26 @@ body {
 }
 
 .container {
-    background-color: rgba(0, 0, 0, 0.8); /* Dark black box with opacity */
-    color: white; /* Text color inside the box */
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
     padding: 20px;
-    border: 2px solid white; /* Add a white border */
-    flex-direction: column; /* Arrange items vertically */
-    text-align: center; /* Center the text */
-    margin-bottom: 20px; /* Add margin at the bottom */
-    margin-left: 20px; /* Add margin to the left */
+    border: 2px solid white;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 20px;
 }
 
 .status-container {
-    background-color: rgba(0, 0, 0, 0.8); /* Dark black box with opacity */
-    color: white; /* Text color inside the box */
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
     padding: 30px;
-    border: 2px solid white; /* Add a white border */
-    margin-top: 20px; /* Add margin at the top to separate from .container */
+    border: 2px solid white;
+    margin-top: 20px;
 }
 
-h1,
-p {
-    margin: 0; /* Remove default margin */
+h1, p {
+    margin: 0;
+    color: white;
 }
 
 .status {
@@ -34,13 +33,7 @@ p {
 
 .info {
     font-style: italic;
-    color: white; /* Change info text color to white */
-}
-
-h1,
-p,
-.status {
-    color: white; /* Change color of "System Status", "Jellyfin Status", "PalWorld Status" to white */
+    color: white;
 }
 
 .up {
