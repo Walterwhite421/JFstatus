@@ -3,8 +3,8 @@ body {
     font-family: Arial, sans-serif;
     background-color: #190182;
     display: flex;
+    justify-content: flex-start; /* Align items at the start */
     height: 100vh; /* Make sure the container fills the viewport height */
-    position: relative; /* Position relative to enable absolute positioning */
 }
 
 .container {
