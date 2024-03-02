@@ -21,8 +21,7 @@ body {
     color: white; /* Text color inside the box */
     padding: 30px;
     border: 2px solid white; /* Add a white border */
-    left: 0; /* Position on the left side */
-    center: 0; /* Position from the top of the body */
+    margin-top: 20px; /* Add margin at the top to separate from .container */
 }
 
 h1,
@@ -52,4 +51,3 @@ p,
 .down {
     color: red;
 }
-
