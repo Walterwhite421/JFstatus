@@ -4,21 +4,21 @@ body {
     background-color: #190182;
     display: flex;
     height: 100vh; /* Make sure the container fills the viewport height */
+    position: relative; /* Position relative to enable absolute positioning */
 }
-
-
 
 .container {
     background-color: rgba(0, 0, 0, 0.8); /* Dark black box with opacity */
     color: white; /* Text color inside the box */
     padding: 20px;
     border: 2px solid white; /* Add a white border */
-	flex-direction: column; /* Arrange items vertically */
+    flex-direction: column; /* Arrange items vertically */
     text-align: center; /* Center the text */
     margin-bottom: 20px; /* Add margin at the bottom */
+    margin-left: 20px; /* Add margin to the left */
 }
 
- .status-container {
+.status-container {
     background-color: rgba(0, 0, 0, 0.8); /* Dark black box with opacity */
     color: white; /* Text color inside the box */
     padding: 30px;
@@ -27,8 +27,8 @@ body {
     left: 0; /* Position on the left side */
 }
 
-
-h1, p {
+h1,
+p {
     margin: 0; /* Remove default margin */
 }
 
@@ -41,7 +41,9 @@ h1, p {
     color: white; /* Change info text color to white */
 }
 
-h1, p, .status {
+h1,
+p,
+.status {
     color: white; /* Change color of "System Status", "Jellyfin Status", "PalWorld Status" to white */
 }
 
