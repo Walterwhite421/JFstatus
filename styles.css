@@ -2,9 +2,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #190182;
-    display: flex;
-    justify-content: flex-start; /* Align items at the start */
-    height: 100vh; /* Make sure the container fills the viewport height */
+    position: relative; /* Ensure that absolutely positioned elements are relative to the body */
 }
 
 .container {
@@ -25,6 +23,7 @@ body {
     border: 2px solid white; /* Add a white border */
     position: absolute; /* Position absolutely */
     left: 0; /* Position on the left side */
+    top: 0; /* Position from the top of the body */
 }
 
 h1,
@@ -54,3 +53,4 @@ p,
 .down {
     color: red;
 }
+
