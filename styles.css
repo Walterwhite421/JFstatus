@@ -24,9 +24,7 @@ body {
     color: white; /* Text color inside the box */
     padding: 30px;
     border: 2px solid white; /* Add a white border */
-	flex-direction: row; /* Arrange items vertically */
-    text-align: left; /* Align text to the left */
-	position: absolute;
+	left: 0;
 	
 }	
 
