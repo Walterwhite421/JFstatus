@@ -1,35 +1,24 @@
-function updatePlayerDetails() {
-    // Make an AJAX request to fetch player details from the server
-    fetch('192.168.1.15/palleaders')
-        .then(response => response.json())
-        .then(data => {
-            // Generate HTML content for player details
-            let htmlContent = `
-                <p>Player Level: ${data.playerLevel}</p>
-                <p>Kills: ${data.kills}</p>
-                <p>Pals Caught: ${data.palsCaught}</p>
-                <p>Deaths: ${data.deaths}</p>
-                <p>Money Earned: ${data.moneyEarned}</p>
-                <p>Most Pals Caught: ${data.mostPalsCaught}</p>
-            `;
+import json
 
-            // Create a new div element to hold the HTML content
-            let playerDetailsDiv = document.createElement('div');
-            playerDetailsDiv.innerHTML = htmlContent;
+from flask import Flask, jsonify
 
-            // Find the blankBox element
-            let blankBox = document.querySelector('.blankBox');
-            // Find the <h2>Player Details</h2> element
-            let playerDetailsHeading = blankBox.querySelector('h2');
+app = Flask(__name__)
 
-            // Insert the player details div after the <h2>Player Details</h2> element
-            blankBox.insertBefore(playerDetailsDiv, playerDetailsHeading.nextElementSibling);
-        })
-        .catch(error => console.error('Error fetching player details:', error));
-}
 
-// Call the function initially to load player details
-updatePlayerDetails();
+@app.route('/api/relic-possess-num', methods=['GET'])
+def get_relic_possess_num():
+    json_file_path = '/mnt/windows_share/F242B6C4000000000000000000000000.sav.json'
 
-// Call the function periodically to update player details
-setInterval(updatePlayerDetails, 5000); // Example: Update every 5 seconds
+    with open(json_file_path, 'r') as file:
+        json_data = json.load(file)
+
+    relic_possess_num = json_data.get('properties', {}).get('SaveData', {}).get('value', {}).get('RecordData', {}).get(
+        'RelicPossessNum', {}).get('value')
+
+    print(relic_possess_num)
+
+    return jsonify({"relic_possess_num": relic_possess_num})
+
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
