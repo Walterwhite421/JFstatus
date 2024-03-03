@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(to bottom right, #190182, #00FFFF); /* Gradient from purple to aqua */
+    background-color: #190182;
     position: relative; /* Ensure that absolutely positioned elements are relative to the body */
 }
 
