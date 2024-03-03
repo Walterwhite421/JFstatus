@@ -31,6 +31,7 @@
                 if (xhr.status === 200) {
                     var data = JSON.parse(xhr.responseText);
                     relicPossessNumDisplay.innerText = "Relic Possess Num: " + data.relic_possess_num;
+					console.log(data.relic_possess_num) after "var data ="
                 }
             };
 			xhr.send();
@@ -53,6 +54,6 @@
    
 
     <!-- JavaScript for updating player details -->
-  console.log(data.relic_possess_num) after "var data ="
+  
 </body>
 </html>
