@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PalWorld Leaderboards</title>
+    <title>M'lestworld</title>
     <link rel="stylesheet" type="text/css" href="leaders.css">
     <style>
     body {
@@ -19,6 +19,20 @@
     </style>
 </head>
 <body>
+	<div id="relicPossessNum"></div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function() {
+            var relicPossessNumDisplay = document.getElementById('relicPossessNum');
+
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', 'http://apache-server-ip:5000/api/relic-possess-num', true);
+
+            xhr.onload = function() {
+                if (xhr.status === 200) {
+                    var data = JSON.parse(xhr.responseText);
+                    relicPossessNumDisplay.innerText = "Relic Possess Num: " + data.relic_possess_num;
+                }
+            };
     <!-- Logo container positioned in the upper left corner -->
 
 	<img src="/images/fLUuHY.gif" class="gif">
@@ -36,7 +50,7 @@
    
 
     <!-- JavaScript for updating player details -->
-    <script src="leaders.js"></script>
+  
 </body>
 </html>
 
