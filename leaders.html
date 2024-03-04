@@ -22,20 +22,21 @@
 	<div id="relicPossessNum"></div>
 	<script>
 		document.addEventListener("DOMContentLoaded", function() {
+            console.log("N WORD")
             var relicPossessNumDisplay = document.getElementById('relicPossessNum');
 
             var xhr = new XMLHttpRequest();
-            xhr.open( 'GET', 'http://methpals.duckdns.org:8211/api/relic-possess-num', true);
+            xhr.open( 'GET', 'http://methpals.duckdns.org:5000/api/relic-possess-num', true);
 
             xhr.onload = function() {
                 if (xhr.status === 200) {
                     var data = JSON.parse(xhr.responseText);
-					console.log(data.relic_possess_num)
+                    console.log(data.relic_possess_num)
                     relicPossessNumDisplay.innerText = "Relic Possess Num: " + data.relic_possess_num;
-					
+
                 }
             };
-			xhr.send();
+            xhr.send();
         });
     </script>
     <!-- Logo container positioned in the upper left corner -->
